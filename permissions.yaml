@@ -1,0 +1,67 @@
+- namespace: dashboard
+  permissions:
+  - Admin
+  - ReadEventsAll
+  - ReadEventsRipple
+  - ReadEventsWave
+  - ReadEventsOcean
+
+- namespace: user
+  permissions:
+  - Admin
+  - ReadOnly
+  - ModifyUsers
+  - ModifyApiClients
+
+- namespace: rbac
+  permissions:
+  - Admin
+  - ReadOnly
+  - ModifyRoles
+  - ModifyUserRoles
+
+- namespace: wave
+  permissions:
+  - Admin
+  - ModifySettings
+  - ReadSettings
+  - ModifyAccountSettings
+  - ReadAccountSettings
+  - DownloadBulk
+  - DownloadReports
+  - ModifyGroups
+  - ReadGroups
+  - ModifyTags
+  - ReadTags
+  - ReadAccount
+  - ReadBillingGroup
+  - ModifyBillingGroup
+  - ReadInvoice
+
+- namespace: ripple
+  permissions:
+  - Admin
+  - ModifySettings
+  - ReadSettings
+  - ModifyInvoiceSettings
+  - ReadInvoiceSettings
+  - ReadBillingGroup
+  - ModifyBillingGroup
+  - ReadAccount
+  - ModifyAccount
+  - ReadReseller
+  - ModifyReseller
+  - ReadInvoice
+  - ModifyInvoice
+  - ReadRi
+  - ModifyRi
+
+- namespace: ocean
+  permissions:
+  - Admin
+  - ReadCredentials
+  - ModifyCredentials
+
+- namespace: magnet
+  permissions:
+  - Admin
