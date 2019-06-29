@@ -1,9 +1,18 @@
 - namespace: dashboard
   permissions:
+  # No restrictions. Root user, by default, has this permission.
   - Admin
+  
+  # View events under all namespaces.
   - ReadEventsAll
+  
+  # View events under ripple namespace.
   - ReadEventsRipple
+  
+  # View events under wave namespace.
   - ReadEventsWave
+  
+  # View events under ocean namespace.
   - ReadEventsOcean
 
 - namespace: user
