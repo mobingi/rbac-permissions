@@ -37,6 +37,7 @@
   - ReadBillingGroup
   - ModifyBillingGroup
   - ReadInvoice
+  - ReadRi
 
 - namespace: ripple
   permissions:
