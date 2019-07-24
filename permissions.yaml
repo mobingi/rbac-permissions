@@ -56,6 +56,8 @@
   - ModifyInvoice
   - ReadRi
   - ModifyRi
+  - ReadProject
+  - ModifyProject
 
 - namespace: ocean
   permissions:
