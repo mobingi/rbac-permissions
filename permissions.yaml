@@ -58,6 +58,8 @@
   - ModifyRi
   - ReadProject
   - ModifyProject
+  - ReadOriginalCost
+  - ModifyOriginalCost
 
 - namespace: ocean
   permissions:
