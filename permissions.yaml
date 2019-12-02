@@ -60,6 +60,7 @@
   - ModifyProject
   - ReadOriginalCost
   - ModifyOriginalCost
+  - ReadSavingsPlan
 
 - namespace: ocean
   permissions:
