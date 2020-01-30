@@ -60,6 +60,8 @@
   - ModifyProject
   - ReadOriginalCost
   - ModifyOriginalCost
+  - ReadTags
+  - ModifyTags
 
 - namespace: ocean
   permissions:
