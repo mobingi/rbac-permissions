@@ -64,6 +64,9 @@
   - ReadSavingsPlan
   - ReadTags
   - ModifyTags
+  - ReadInvoiceTemplate
+  - ModifyInvoiceTemplate
+  - ReadReport
 
 - namespace: ocean
   permissions:
