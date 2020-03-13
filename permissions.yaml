@@ -67,6 +67,8 @@
   - ReadInvoiceTemplate
   - ModifyInvoiceTemplate
   - ReadReport
+  - ReadCustomField
+  - ModifyCustomField
 
 - namespace: ocean
   permissions:
