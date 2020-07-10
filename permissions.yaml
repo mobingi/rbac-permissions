@@ -69,6 +69,8 @@
   - ReadReport
   - ReadCustomField
   - ModifyCustomField
+  - ReadCustomService
+  - ModifyCustomService
 
 - namespace: ocean
   permissions:
