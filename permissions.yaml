@@ -72,12 +72,14 @@
   - ReadCustomService
   - ModifyCustomService
 
+# Discontinued.
 - namespace: ocean
   permissions:
   - Admin
   - ReadCredentials
   - ModifyCredentials
 
+# Discontinued.
 - namespace: magnet
   permissions:
   - Admin
