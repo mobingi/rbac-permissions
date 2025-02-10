@@ -39,6 +39,9 @@
   - ReadInvoice
   - ReadRi
   - ReadSavingsPlan
+  - DashboardGraph
+  - ReportFilters
+  - AquaLink
 
 - namespace: ripple
   permissions:
